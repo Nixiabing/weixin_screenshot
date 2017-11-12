@@ -40,6 +40,7 @@ for a in an:
 	s = s + 1
 	pass
 
+
 #ios_box = (122,820,726,920)
 #IOS = ["1","2","3","4","5","6",]
 #ios = random.sample(IOS,4)
