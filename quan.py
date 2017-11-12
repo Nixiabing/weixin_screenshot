@@ -45,4 +45,3 @@ for a in an:
 # 	ios_im.paste(n,ios_box)
 # 	ios_im.save(path + "0" + i + ".jpg","JPEG")
 # 	pass
-#
