@@ -1,3 +1,4 @@
+'''微信朋友圈图片批量生成'''
 # -*- coding: UTF-8 -*-
 from PIL import Image
 import random
